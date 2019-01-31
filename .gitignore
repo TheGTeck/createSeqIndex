@@ -1,3 +1,6 @@
+createSeqIndex
+*.fasta
+
 # Prerequisites
 *.d
 
